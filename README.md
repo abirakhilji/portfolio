@@ -2,7 +2,7 @@
 
 A fast, responsive, single-page portfolio website built with plain HTML, CSS and JavaScript — no frameworks, no build step, no dependencies.
 
-🔗 **Live site:** _(add your Netlify URL here)_
+🔗 **Live site:** https://fantastic-phoenix-ea401f.netlify.app/
 
 ---
 
